@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshulChoudhary001.
 - 👀 I’m interested in Designing.
-- 🌱 I’m currently learning Photoshop.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me anshul2020choudhary@gmail.com
 
 <!---
